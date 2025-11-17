@@ -1,13 +1,13 @@
 how to setup in your local
 
-"""
+```
 python --version
 python -m .venv venv
 .\.venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
 python main.py
-"""
+```
 
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
